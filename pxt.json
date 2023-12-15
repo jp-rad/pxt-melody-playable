@@ -1,7 +1,7 @@
 {
-    "name": "pxt-ubit-extension",
-    "version": "0.3.2",
-    "description": "(description: this description is written in pxt.json)",
+    "name": "pxt-melody-playable",
+    "version": "0.2.0",
+    "description": "Playable melody.",
     "dependencies": {
         "core": "*"
     },
@@ -9,10 +9,7 @@
         "README.md",
         "enums.d.ts",
         "shims.d.ts",
-        "custom.ts",
-        "custom.cpp",
-        "lib/customlib.h",
-        "lib/customlib.cpp"
+        "builder.ts"
     ],
     "testFiles": [
         "test.ts"
